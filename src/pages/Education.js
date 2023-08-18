@@ -1,5 +1,5 @@
 import React from 'react';
-import {Accordion, Container, ListGroup} from 'react-bootstrap';
+import { Container, ListGroup } from 'react-bootstrap';
 
 
 const Education = () => {

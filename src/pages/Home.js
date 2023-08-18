@@ -19,7 +19,7 @@ const Home = () => {
             </p>
             <div className='d-flex align-items-center gap-2'>
               <Link to='/work'>
-                <Button className='btn-lg rounded-pill' variant='outline-primary'>View Work</Button>
+                <Button className='btn-lg rounded-pill' variant='outline-light'>View Work</Button>
               </Link>
               <SocialLinks />
             </div>

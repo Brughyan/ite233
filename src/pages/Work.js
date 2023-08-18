@@ -1,5 +1,5 @@
 import React from 'react';
-import { Carousel, Image, Container,  Row, Col } from 'react-bootstrap';
+import { Image, Container,  Row, Col } from 'react-bootstrap';
 
 
 const Work = () => {
